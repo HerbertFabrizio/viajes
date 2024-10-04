@@ -3019,19 +3019,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\THAINE\\.nuget\\packages\\": {}
+    "C:\\Users\\Fabrizio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ingenieria\\6-Ciclo\\Programacion I\\w1\\viajes\\viajes.csproj",
+      "projectUniqueName": "C:\\Users\\Fabrizio\\Desktop\\usmp\\viajes\\viajes.csproj",
       "projectName": "viajes",
-      "projectPath": "D:\\ingenieria\\6-Ciclo\\Programacion I\\w1\\viajes\\viajes.csproj",
-      "packagesPath": "C:\\Users\\THAINE\\.nuget\\packages\\",
-      "outputPath": "D:\\ingenieria\\6-Ciclo\\Programacion I\\w1\\viajes\\obj\\",
+      "projectPath": "C:\\Users\\Fabrizio\\Desktop\\usmp\\viajes\\viajes.csproj",
+      "packagesPath": "C:\\Users\\Fabrizio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fabrizio\\Desktop\\usmp\\viajes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\THAINE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Fabrizio\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
